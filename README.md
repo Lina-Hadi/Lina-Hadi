@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Hadi Meriem Lina! 👋
 
-- 🚀 Currently exploring the Full Stack development journey  
-- 👯 I’m looking to collaborate on cybersecurity projects  
+- 🚀 Currently exploring AI Engineering, LLMs & Intelligent Automation journey  
+- 👯 I’m looking to collaborate on AI & DS projects  
 - 💬 Ask me about cybersecurity, art, web development  
 - 📫 How to reach me: meriemlinahadi23@gmail.com  
 
